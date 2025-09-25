@@ -1,11 +1,14 @@
 .texto-amarillo{
     color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .texto-azul{
     color: blue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .texto-rojo{
     color: red;
+     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
